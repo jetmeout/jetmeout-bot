@@ -1,4 +1,4 @@
-![logo](http://dev.carlodenaro.com/jetmeout/i/logo.png)
+![logo](http://dev.carlodenaro.com/jetmeout/i/mini-logo.png)
 
 ## socials
 * [website](http://dev.carlodenaro.com/jetmeout/)
@@ -8,4 +8,4 @@
 
 ## thanks
 
-![heroku](https://vort3x.me/images/heroku-logo.jpg =100x)
+* [heroku](https://heroku.com)
