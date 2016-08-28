@@ -1,4 +1,4 @@
-![logo](http://dev.carlodenaro.com/jetmeout/i/logo.png =150x)
+![logo](http://dev.carlodenaro.com/jetmeout/i/logo.png)
 
 ## socials
 * [website](http://dev.carlodenaro.com/jetmeout/)
